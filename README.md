@@ -17,3 +17,5 @@ This project predicts house prices using **Linear Regression** trained on the Ka
 1. Open the `.ipynb` file in Google Colab  
 2. Run all cells to train the model  
 3. The trained model is saved as `house_price_model.pkl`
+
+Last updated: 2026-10-13 15:54 UTC
