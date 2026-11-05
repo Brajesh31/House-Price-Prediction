@@ -18,4 +18,4 @@ This project predicts house prices using **Linear Regression** trained on the Ka
 2. Run all cells to train the model  
 3. The trained model is saved as `house_price_model.pkl`
 
-Last updated: 2026-11-05 00:00 UTC
+Last updated: 2026-11-05 07:27 UTC
